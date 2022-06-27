@@ -1,4 +1,4 @@
-# Made With ❤️ Kucing0yen
+# Made With ❤️ Kucing0yen ft AmmarrBN
 # Powered By ExecutedTeam
 
 import os,sys,time,requests,json,random
@@ -34,6 +34,8 @@ def tanya():
         printtik(f"{biru}Thx For {W}Using My {biru}Tools")
         sys.exit("")
 
+# Don't Removed Code
+# Coded By AmmarrBN
 def settings():
     sett=input(f"{W}Input Target {B}•{R}⟩{G} ")
     os.system(f"echo '{sett}' > list1.txt")
@@ -49,6 +51,8 @@ def settings():
         time.sleep(4)
         banner2()
 
+# Don't Removed Code
+# Code By AmmarrBN
 def start():
     try:
         gas = open('target.txt','r').readlines()
@@ -122,6 +126,7 @@ def banner2():
         time.sleep(5)
         printtik(f"{W}[{R}!{W}] Exited With Program{abu}.....")
 
+# Loading Code By Kucing0yen
 def pro():
         banner2()
 done = False
